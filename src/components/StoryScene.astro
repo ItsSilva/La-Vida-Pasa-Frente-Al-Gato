@@ -1,0 +1,19 @@
+---
+import ChronicleParagraph from './ChronicleParagraph.astro';
+import PhotoFigure from './PhotoFigure.astro';
+import type { Photo } from '../data/layout';
+
+interface Props {
+  paragraphs: { id: string; voice: string; text: string }[];
+  side?: 'left' | 'right';
+  photo?: Photo;
+}
+
+const { paragraphs, side, photo } = Astro.props;
+---
+<div class:list={['scene', side ? `scene--photo-${side}` : 'scene--text']}>
+  <div class="scene__copy">
+    {paragraphs.map(paragraph => <ChronicleParagraph paragraph={paragraph} />)}
+  </div>
+  {photo && <PhotoFigure photo={photo} />}
+</div>

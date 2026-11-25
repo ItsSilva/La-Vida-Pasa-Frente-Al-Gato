@@ -1,0 +1,9 @@
+---
+interface Props {
+  paragraph: { id: string; voice: string; text: string };
+}
+
+const { paragraph } = Astro.props;
+const isGato = paragraph.voice === 'gato';
+---
+<p data-story-paragraph={paragraph.id} data-voice={paragraph.voice} class:list={['story-paragraph', { 'story-paragraph--gato': isGato, 'story-paragraph--lead': paragraph.id === 'p01' }]}>{isGato ? <em>{paragraph.text}</em> : paragraph.text}</p>

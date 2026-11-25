@@ -1,0 +1,29 @@
+---
+import { Image } from 'astro:assets';
+import type { Photo } from '../data/layout';
+
+interface Props {
+  photo: Photo;
+  cover?: boolean;
+}
+
+const { photo, cover = false } = Astro.props;
+const widths = [...[360, 480, 640, 800, 960].filter(width => width < photo.image.width), photo.image.width];
+const sizes = cover
+  ? '(min-width: 1024px) 51vw, 100vw'
+  : '(min-width: 1280px) 480px, (min-width: 1024px) 37vw, (min-width: 730px) 688px, calc(100vw - 2.5rem)';
+---
+<figure class:list={['photo', cover ? 'cover__photo' : 'scene__photo']}>
+  <Image
+    src={photo.image}
+    alt={photo.alt}
+    widths={widths}
+    sizes={sizes}
+    width={cover ? photo.image.width : Math.min(640, photo.image.width)}
+    format="webp"
+    quality={86}
+    loading={cover ? 'eager' : 'lazy'}
+    fetchpriority={cover ? 'high' : undefined}
+    decoding="async"
+  />
+</figure>
