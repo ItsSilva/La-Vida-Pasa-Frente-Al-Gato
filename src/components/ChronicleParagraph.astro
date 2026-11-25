@@ -1,9 +1,12 @@
 ---
+import { leadLength, type Paragraph } from '../data/layout';
+
 interface Props {
-  paragraph: { id: string; voice: string; text: string };
+  paragraph: Paragraph;
 }
 
 const { paragraph } = Astro.props;
 const isGato = paragraph.voice === 'gato';
+const opening = paragraph.id === 'p01' ? paragraph.runs.map(run => run.text).join('') : null;
 ---
-<p data-story-paragraph={paragraph.id} data-voice={paragraph.voice} class:list={['story-paragraph', { 'story-paragraph--gato': isGato, 'story-paragraph--lead': paragraph.id === 'p01' }]}>{isGato ? <em>{paragraph.text}</em> : paragraph.text}</p>
+<p data-story-paragraph={paragraph.id} data-voice={paragraph.voice} class:list={['story-paragraph', { 'story-paragraph--gato': isGato }]}>{opening ? <><strong class="story-paragraph__lead" data-story-lead>{opening.slice(0, leadLength)}</strong>{opening.slice(leadLength)}</> : paragraph.runs.map(run => run.italic ? <em>{run.text}</em> : run.text)}</p>

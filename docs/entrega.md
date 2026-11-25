@@ -1,18 +1,17 @@
 # Entrega de La vida pasa frente al Gato
 
-Publicación verificada el 24 de noviembre de 2026.
+Edición revisada el 24 de noviembre de 2026.
 
 - Producción pública en [la-vida-pasa-frente-al-gato.vercel.app](https://la-vida-pasa-frente-al-gato.vercel.app/).
 - Repositorio público y rama de producción `main` en [ItsSilva/La-Vida-Pasa-Frente-Al-Gato](https://github.com/ItsSilva/La-Vida-Pasa-Frente-Al-Gato).
 - Proyecto de Vercel en el equipo `itssilvas-projects` [la-vida-pasa-frente-al-gato](https://vercel.com/itssilvas-projects/la-vida-pasa-frente-al-gato).
-- Código publicado y comprobado en el commit [`c6f6b216790979da4c39fc84f05747ccb4888392`](https://github.com/ItsSilva/La-Vida-Pasa-Frente-Al-Gato/commit/c6f6b216790979da4c39fc84f05747ccb4888392).
-- Primer despliegue de producción con estado `Ready`. [Despliegue verificado](https://vercel.com/itssilvas-projects/la-vida-pasa-frente-al-gato/dpl_6VMBWb11KR2xiXJjqebpHJz84PUd).
+- Historial del código publicado en [la rama `main`](https://github.com/ItsSilva/La-Vida-Pasa-Frente-Al-Gato/commits/main/).
 
 ## Fidelidad
 
-El título, la autoría y los 32 párrafos del anexo A del README coinciden literalmente con el Google Doc consultado, incluidas las cursivas de p09, p26 y p31. Se extrajo el JSON directamente del README. El SHA-256 calculado es `7024736cc98dd50c84512e600aae345d8da0ada256dc5438ba6c73b05f44d9a0`. [Fuente editorial](https://docs.google.com/document/d/1elCAREWdZUGKGtZ_vqoU58kEQnI7Oo9hlWi9qYRrGbc/edit).
+El título, la autoría y los 34 párrafos se extrajeron de la pestaña «La vida pasa frente al Gato». El JSON conserva las cursivas de las esculturas en p06 y las intervenciones del Gato en p10, p28 y p33. El SHA-256 calculado es `a8de0d605e2b0f8d4706397037b5b140ddd48eb0cdf15cb6e1c20ecb95444c83`. [Fuente editorial](https://docs.google.com/document/d/1hxwzt6Wm_N4bMjj5j8zetJzm62Uxaa0EX3fNaUgO-ME/edit?tab=t.nmv4g6ld8ams)
 
-El verificador del anexo B pasó en la compilación local y en producción a 390 y 1.440 px en Chromium, con JavaScript desactivado. Se comprobó que p20 es un párrafo independiente, que el relato termina en p32 y que los créditos aparecen en el pie.
+El verificador compara el texto y las cursivas carácter por carácter a 390 y 1.440 px con JavaScript desactivado. Comprueba que solo las dos primeras frases se destaquen en letra grande y negrita y que el primer párrafo conserve el resto del texto. El párrafo breve queda en p22 y el relato termina en p34.
 
 ## Presentación y acceso
 
@@ -20,11 +19,11 @@ El verificador del anexo B pasó en la compilación local y en producción a 390
 | --- | --- |
 | 320, 390 y 768 px | Título y autoría antes de la foto de portada. Las fotos del cuerpo siguen al texto de su bloque. |
 | 1.024 y 1.440 px | Portada a la izquierda y panel negro a la derecha. Las cinco escenas alternan izquierda, derecha, izquierda, derecha e izquierda. |
-| Lectura y accesibilidad | Sin desbordamiento horizontal en los cinco anchos. Se comprobó el recorrido con teclado, el foco visible, el texto al 200 % y los 32 párrafos en los estilos de impresión. Se probó la fuente de respaldo bloqueando los archivos de fuente a 390 px. |
-| Fotografías | Se cargaron los seis encuadres con texto alternativo y variantes WebP. En producción la portada transfirió 30.240 B a 390 px con DPR 1 y 151.908 B con DPR 3. Se utiliza un recorte para obtener el sexto encuadre de las cinco tomas disponibles. |
-| Producción | La URL responde HTTP 200 sin iniciar sesión. Chromium cargó los recursos sin errores. Se verificaron el dominio canónico y la carga HTTP 200 de la imagen para compartir. |
+| Lectura y accesibilidad | El verificador cubre el desbordamiento horizontal en los cinco anchos, el recorrido con teclado, el foco visible, el texto al 200 % y los 34 párrafos en los estilos de impresión. |
+| Fotografías | Los seis encuadres tienen texto alternativo y variantes WebP. Se utiliza un recorte para obtener el sexto encuadre de las cinco tomas disponibles. |
+| Producción | La integración de GitHub publica la rama `main` en la URL pública del proyecto. |
 
-Las capturas de revisión se conservaron en `test-results/produccion/`. La construcción usa Astro 7.4.13 con salida estática en `dist` y Node 24. Vercel toma los cambios de producción de `main` mediante la integración de GitHub.
+La construcción usa Astro 7.4.13 con salida estática en `dist` y Node 24.
 
 ## Repetir las comprobaciones
 

@@ -25,7 +25,7 @@ try {
     const response = await page.goto(target, { waitUntil: 'load' });
     assert.ok(response?.ok(), `Respuesta de la página a ${width}px`);
 
-    const { overflow, coverOrder, sides, bodyOrder, lastId, p20Tag } = await page.evaluate(() => {
+    const { overflow, coverOrder, sides, bodyOrder, lastId, shortParagraphTag } = await page.evaluate(() => {
       function position(copy, photo) {
         const a = copy.getBoundingClientRect();
         const b = photo.getBoundingClientRect();
@@ -42,15 +42,15 @@ try {
         sides: photographed.map(scene => position(scene.firstElementChild, scene.querySelector('figure'))),
         bodyOrder: photographed.every(scene => scene.firstElementChild.matches('.scene__copy')),
         lastId: scenes.at(-1).querySelector('.scene__copy').lastElementChild.dataset.storyParagraph,
-        p20Tag: document.querySelector('[data-story-paragraph="p20"]').tagName,
+        shortParagraphTag: document.querySelector('[data-story-paragraph="p22"]').tagName,
       };
     });
     assert.equal(overflow, false, `Desbordamiento a ${width}px`);
     assert.equal(coverOrder, width >= 1024 ? 'left' : 'below', `Portada a ${width}px`);
     assert.deepEqual(sides, width >= 1024 ? ['left', 'right', 'left', 'right', 'left'] : Array(5).fill('below'));
     assert.equal(bodyOrder, true, 'Texto antes de la figura en el DOM');
-    assert.equal(lastId, 'p32');
-    assert.equal(p20Tag, 'P');
+    assert.equal(lastId, 'p34');
+    assert.equal(shortParagraphTag, 'P');
 
     const images = await page.locator('article img').all();
     assert.equal(images.length, 6);
@@ -85,14 +85,14 @@ try {
 
       await page.emulateMedia({ media: 'print' });
       assert.equal(await page.locator('.story').evaluate(el => getComputedStyle(el).display), 'block');
-      assert.equal(await page.locator('[data-story-paragraph]:visible').count(), 32);
+      assert.equal(await page.locator('[data-story-paragraph]:visible').count(), 34);
       await page.emulateMedia({ media: 'screen' });
     }
 
     if (captures && [390, 1440].includes(width)) {
       await page.evaluate(() => { document.activeElement?.blur(); scrollTo(0, 0); });
       await page.screenshot({ path: join(captures, `${width}-portada.png`) });
-      for (const id of ['p04', 'p07', 'p20', 'p31']) {
+      for (const id of ['p01', 'p05', 'p08', 'p22', 'p33']) {
         await page.locator(`[data-story-paragraph="${id}"]`).evaluate(el => el.scrollIntoView({ block: 'center' }));
         await page.screenshot({ path: join(captures, `${width}-${id}.png`) });
       }

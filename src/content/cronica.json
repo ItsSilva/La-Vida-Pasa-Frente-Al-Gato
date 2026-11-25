@@ -1,7 +1,7 @@
 {
-  "schemaVersion": 1,
-  "sourceUrl": "https://docs.google.com/document/d/1elCAREWdZUGKGtZ_vqoU58kEQnI7Oo9hlWi9qYRrGbc/edit?usp=sharing",
-  "sourceDocumentTitle": "CronicaSofiaJuanParqueGatosFinal",
+  "schemaVersion": 2,
+  "sourceUrl": "https://docs.google.com/document/d/1hxwzt6Wm_N4bMjj5j8zetJzm62Uxaa0EX3fNaUgO-ME/edit?tab=t.nmv4g6ld8ams",
+  "sourceDocumentTitle": "CronicaSofiaJuanParqueGatos",
   "capturedOn": "2026-11-24",
   "title": "La vida pasa frente al Gato",
   "byline": "Ana Sofía González (A00399398) y Juan Sebastián Silva (A00398807)",
@@ -9,162 +9,332 @@
     {
       "id": "p01",
       "voice": "narrador",
-      "text": "Un rato antes había salido de una cita psicológica en el oeste de Cali. El día había sido complicado y todavía tenía esa sensación de estar pendiente de alguien más: de cómo se encontraba, de si había descansado o de qué podía pasarle mientras yo intentaba resolver mis propias cosas. Estaba saliendo con esa persona, aunque no éramos pareja, pero la preocupación ya se sentía como si existiera un compromiso. Nadie me había pedido que estuviera siempre disponible. Aun así, me sentía culpable cuando dejaba de estarlo."
+      "runs": [
+        {
+          "text": "Le estábamos viendo el culo a todas las gatas. Una detrás de otra, hasta que empezó a parecernos extraño. Majo conocía el parque. Yo acababa de llegar por primera vez y confiaba en ella, aunque tampoco creía que necesitáramos instrucciones para caminar por un parque. Seguimos avanzando por el sendero de piedritas, buscando de qué lado quedaba cada cara. La luz azul de los postes alcanzaba los cuerpos de las gatas y los setos bajos que rodeaban sus bases. Habíamos salido a despejar la cabeza y ahora estábamos tratando de entender por qué el recorrido parecía diseñado para recibirnos de espaldas."
+        }
+      ]
     },
     {
       "id": "p02",
       "voice": "narrador",
-      "text": "Le escribí a Majo para salir un rato. Ella también había tenido un día pesado en el trabajo y necesitaba despejar la mente. Con ella podía hablar de lo que me pasaba o distraerme con cualquier bobada, y no había que dar muchas explicaciones para ninguna de las dos cosas. Cuando llegué a su casa, conversamos un rato con Valeria, una amiga de los dos que ya se estaba yendo. Después salimos caminando hacia el Parque del Gato."
+      "runs": [
+        {
+          "text": "Un rato antes había salido de una cita psicológica en el oeste de Cali. El día había sido complicado y todavía sentía la obligación de estar pendiente de alguien más. De cómo estaba, de si había descansado, de lo que pudiera pasarle mientras yo intentaba ocuparme de mis propias cosas. Estaba saliendo con esa persona, sin que fuéramos pareja, pero la preocupación ya había adquirido la constancia de un compromiso. Nadie me obligaba a mantenerme disponible. Me bastaba con sentir culpa cuando dejaba de hacerlo."
+        }
+      ]
     },
     {
       "id": "p03",
       "voice": "narrador",
-      "text": "Majo vivía cerca y había ido muchas veces con Hannah, su perrita, pero siempre en las mañanas. Esa noche también estaba descubriendo el lugar de otra manera. A veces basta con cambiar la hora para que un sitio que uno conoce se sienta distinto."
+      "runs": [
+        {
+          "text": "Le escribí a Majo para salir un rato. Ella también había tenido un día largo en el trabajo y necesitaba descansar la mente. Con ella podía hablar de lo que me pasaba o distraerme con cualquier bobada. Teníamos la confianza suficiente para que ninguna de las dos cosas exigiera explicaciones. Al llegar a su casa conversamos un momento con Valeria, una amiga de los dos que ya iba de salida. Después caminamos hacia el Parque del Gato."
+        }
+      ]
     },
     {
       "id": "p04",
       "voice": "narrador",
-      "text": "Casi no había vendedores. Me llamó la atención porque esperaba encontrar el movimiento que suele haber en otros lugares emblemáticos de Cali. Vimos un puesto de comida y, cerca, una muchacha recogiendo un mantel. Más adelante, casi a mitad del recorrido, alguien guardaba los productos hechos a mano que había estado vendiendo. Todo daba la impresión de que la jornada estaba terminando, mientras nosotros apenas empezábamos el paseo."
+      "runs": [
+        {
+          "text": "Majo vivía cerca y había ido muchas veces con Hannah, su perrita, pero siempre por las mañanas. Esa noche también estaba conociendo algo nuevo. Un lugar habitual para ella podía volverse distinto con solo cambiar la hora."
+        }
+      ]
     },
     {
       "id": "p05",
       "voice": "narrador",
-      "text": "Nos detuvimos frente a Fogata, la gata que habían elegido por votación como novia oficial del Gato. A los dos nos pareció una elección bastante discutible. Había otras que nos llamaban mucho más la atención. Gachuza, por ejemplo, roja y llena de clavos, tenía algo que hacía que uno se quedara mirándola. También estaba No hay gato, blanca, con nombres de animales y referencias bíblicas escritos por todo el cuerpo. Había pulgas, lechuzas y mosquitos. La obra jugaba con la idea de que el gato no aparecía en la Biblia, como si se hubiera quedado por fuera de esa historia. Hasta una pulga tenía su pasaje."
+      "runs": [
+        {
+          "text": "Casi no había vendedores. Me llamó la atención porque esperaba el movimiento que suele haber alrededor de otros lugares emblemáticos de Cali. Vimos un puesto de comida y, cerca, una muchacha que estaba recogiendo un mantel. Más adelante, hacia la mitad del recorrido, alguien guardaba los productos hechos a mano que había estado vendiendo. Todo parecía estar terminando mientras nosotros apenas comenzábamos."
+        }
+      ]
     },
     {
       "id": "p06",
       "voice": "narrador",
-      "text": "El Gato, claro, no tenía mucho que decir en nuestra discusión sobre sus gustos. Los caleños habían escogido a su novia y nosotros, que llevábamos apenas unos minutos en el parque, ya estábamos convencidos de que le vendría mejor otra."
+      "runs": [
+        {
+          "text": "Nos detuvimos frente a "
+        },
+        {
+          "text": "Fogata",
+          "italic": true
+        },
+        {
+          "text": ", la elegida por votación como novia oficial del Gato. A los dos nos pareció una decisión discutible. Había otras mucho más interesantes. "
+        },
+        {
+          "text": "Gachuza",
+          "italic": true
+        },
+        {
+          "text": ", por ejemplo, roja y llena de clavos, tenía algo que obligaba a mirarla con cuidado. También estaba "
+        },
+        {
+          "text": "No hay gato",
+          "italic": true
+        },
+        {
+          "text": ", blanca, con nombres de animales y referencias bíblicas escritos sobre el cuerpo. Había pulgas, lechuzas, mosquitos. La obra jugaba con la idea de una ausencia, la del gato en la Biblia. Hasta una pulga tenía su pasaje. El gato, según proponía la obra, se había quedado por fuera."
+        }
+      ]
     },
     {
       "id": "p07",
       "voice": "narrador",
-      "text": "Cuando llegamos al monumento entendimos qué estaba pasando. Habíamos comenzado el recorrido por el final. Las espaldas que habíamos estado viendo tenían una explicación bastante sencilla. Me dio risa pensar en la seguridad con la que habíamos confiado en nuestra orientación."
+      "runs": [
+        {
+          "text": "El Gato, por supuesto, había quedado por fuera de nuestra discusión sobre sus gustos. Su novia la habían escogido los caleños. Nosotros llevábamos unos minutos en el parque y ya estábamos seguros de que le convenía otra."
+        }
+      ]
     },
     {
       "id": "p08",
       "voice": "narrador",
-      "text": "Arriba, los bigotes del Gato se enroscaban formando dos espirales y un pájaro descansaba sobre su cola. La luz azul se reflejaba en el bronce. Llevaba allí desde el 3 de julio de 1996, treinta años recibiendo visitantes, incluso a quienes llegábamos por el lado equivocado. Me puse a imaginar qué pensaría de nuestras opiniones y de lo fácil que nos había resultado decidir quién debía acompañarlo, cuando esa figura iba a permanecer allí mucho después de que nosotros nos fuéramos."
+      "runs": [
+        {
+          "text": "Al llegar al monumento entendimos el problema. Habíamos empezado por el final. Aquellas espaldas tenían una explicación bastante sencilla. Me dio risa haber confiado tanto en nuestra capacidad para orientarnos."
+        }
+      ]
     },
     {
       "id": "p09",
-      "voice": "gato",
-      "text": "Me escogieron una novia y todavía vienen a decirme que había mejores opciones. Les basta una vuelta por el paseo. Después se van juntos, separados, a veces sin terminar lo que estaban hablando. A mí me dejan aquí, con la elegida. Nadie espera mi respuesta."
+      "voice": "narrador",
+      "runs": [
+        {
+          "text": "Arriba, los bigotes del Gato se enroscaban en dos espirales y un pájaro descansaba sobre su cola. La luz azul le recorría el bronce. Llevaba allí desde el 3 de julio de 1996. Treinta años recibiendo gente, incluso a quienes llegábamos por donde no era. Me dieron ganas de imaginar qué pensaría de nuestras opiniones, de esa facilidad con que decidíamos sobre una compañía que iba a quedarse a su lado mucho después de que nosotros nos fuéramos."
+        }
+      ]
     },
     {
       "id": "p10",
-      "voice": "narrador",
-      "text": "Frente al monumento había un hombre que nos pareció extranjero. Vestía de manera casual, pero con cierta torpeza, como si alguien le hubiera explicado cómo vestirse en Cali y él hubiera seguido las indicaciones demasiado literalmente. Lo acompañaba una mujer negra, muy hermosa, que le iba hablando del parque. Supusimos que era su guía. Alcanzamos a escuchar parte de lo que decía, que también estaba en los carteles, y enseguida pensamos que al pobre turista le estaban tomando el pelo. Bastó escuchar un pedacito para juzgar toda la visita."
+      "voice": "gato",
+      "runs": [
+        {
+          "text": "Me escogieron una novia y todavía vienen a decirme que había mejores opciones. Les basta una vuelta por el paseo. Después se van juntos, separados, a veces sin terminar lo que estaban hablando. A mí me dejan aquí, con la elegida. Nadie espera mi respuesta.",
+          "italic": true
+        }
+      ]
     },
     {
       "id": "p11",
       "voice": "narrador",
-      "text": "Allí también había una historia que me habría gustado conocer mejor. Las cenizas de Hernando Tejada, Tejadita, quedaron en el monumento. El escultor terminó acompañando a su obra y a la ciudad a la que se la había regalado. Alguien que ya no estaba seguía siendo parte de aquello que estábamos mirando."
+      "runs": [
+        {
+          "text": "Frente al monumento había un hombre que nos pareció extranjero. Llevaba la ropa casual con cierta torpeza, como si alguien le hubiera explicado cómo vestirse en Cali y él hubiera seguido las instrucciones demasiado al pie de la letra. Lo acompañaba una mujer negra, muy hermosa, que le hablaba del parque. Supusimos que era su guía. Lo que alcanzamos a escuchar estaba en los carteles y enseguida pensamos que al pobre turista le habían visto la cara. Bastó ese fragmento para que juzgáramos la visita completa."
+        }
+      ]
     },
     {
       "id": "p12",
       "voice": "narrador",
-      "text": "La aparición del turista nos sacó un poco de las esculturas y empezamos a fijarnos más en la gente. Yo esperaba ver personas mayores, así que me sorprendió encontrar varias parejas jóvenes, cada una a cierta distancia de las otras. Hablaban bajito, con una calma que desde afuera podía parecer poca emoción. Pensé que apenas se estaban conociendo, aunque también era posible que llevaran años juntos y simplemente hubieran tenido un día largo, como nosotros."
+      "runs": [
+        {
+          "text": "Había una historia que yo habría querido oír allí. Las cenizas de Hernando Tejada, Tejadita, quedaron en el monumento. El escultor había terminado acompañando a su obra y a la ciudad a la que se la regaló. Alguien que ya se había ido seguía formando parte de lo que mirábamos."
+        }
+      ]
     },
     {
       "id": "p13",
       "voice": "narrador",
-      "text": "Se escuchaba el río. Los árboles hacían que el aire se sintiera más fresco, a pesar de los carros que pasaban cerca. Había algo en el lugar que permitía conversar sin afán, escuchar al otro y no tener que llenar cada silencio. Pensé que el parque servía justamente para eso, para detenerse un rato y hacerse preguntas que no siempre tienen una respuesta inmediata. Majo y yo habíamos salido a descansar y terminamos observando cómo los demás también parecían estar haciéndolo."
+      "runs": [
+        {
+          "text": "La aparición del turista nos sacó del trance de las esculturas. Empezamos a fijarnos en las personas. Yo esperaba encontrar gente mayor y me sorprendió ver unas cuantas parejas jóvenes, separadas entre sí por bastante distancia. Hablaban bajo, con una calma que desde afuera podía parecer falta de emoción. Me dio la impresión de que apenas se estaban conociendo, aunque también podían llevar años juntos y haber tenido un día largo, como nosotros."
+        }
+      ]
     },
     {
       "id": "p14",
       "voice": "narrador",
-      "text": "De regreso, cerca del puesto de comida, vimos a una muchacha sola debajo de un poste. Tendría unos veinte años. Lloraba despacio, intentando no hacer mucho ruido. Era uno de esos llantos que parecen llevar rato, de esos en los que el cuerpo ya se ve cansado, pero las lágrimas siguen saliendo. Majo reconoció a la mujer que habíamos visto antes recogiendo el mantel. Habíamos pasado junto a ella sin detenernos. Ahora, todo lo que yo venía pensando sobre el parque tenía que dejar espacio para lo que estaba pasando allí."
+      "runs": [
+        {
+          "text": "Se escuchaba el río. Los árboles hacían que el aire se sintiera menos pesado, a pesar de los vehículos que pasaban cerca. Había espacio para escuchar al otro sin apurarlo. Pensé que el lugar servía para eso, para hacer preguntas cuyas respuestas necesitaban tiempo. Majo y yo habíamos salido a descansar un rato y terminamos mirando cómo los demás parecían hacerlo."
+        }
+      ]
     },
     {
       "id": "p15",
       "voice": "narrador",
-      "text": "Cerca estaban dos policías, un hombre y una mujer. Se encontraban lo suficientemente apartados como para no invadirla, pero hablaban mientras miraban hacia donde estaba ella. Por un momento parecían dos vecinas mayores conversando desde el patio de sus casas, incluso se inclinaban un poco hacia adelante. La curiosidad nos ganó. La idea de acercarnos fue mía; a Majo le daba pena, pero al final el chisme, o tal vez el morbo, pudo más."
+      "runs": [
+        {
+          "text": "De regreso, cerca del puesto de comida, vimos a una muchacha sola debajo de un poste. Tendría unos veinte años. Lloraba despacio, tratando de hacer poco ruido. Era de esos llantos que parecen llevar tanto tiempo que el cuerpo ya está cansado, aunque las lágrimas sigan saliendo. Majo reconoció a la mujer que antes habíamos visto recogiendo el mantel."
+        }
+      ]
     },
     {
       "id": "p16",
       "voice": "narrador",
-      "text": "La oficial estaba de espaldas. Apenas escuchó mi voz, se volteó y se enderezó. Su compañero hizo lo mismo. Sacaron pecho y recuperaron una seriedad que hacía un segundo no tenían. Les pregunté si la muchacha estaba bien, con toda la preocupación de un ciudadano ejemplar. Dijeron que sí y, para nuestra suerte —la de los buenos ciudadanos curiosos—, siguieron contándonos lo que había pasado."
+      "runs": [
+        {
+          "text": "Habíamos pasado a su lado sin detenernos. Ahora todo lo que yo acababa de pensar sobre el parque tenía que hacerle espacio a ella."
+        }
+      ]
     },
     {
       "id": "p17",
       "voice": "narrador",
-      "text": "La joven había llegado bastante antes. Había sacado un mantel, comida y algunas cosas para pintar. Según el oficial, lo había organizado todo muy bonito, tanto que ellos se turnaban para pasar cerca y mirar. Después llegó otra muchacha, vestida con un vestido. Se saludaron con un beso y se pusieron a hablar, cantar, comer y pintar. Ver parejas en el parque era algo común; lo que les había llamado la atención era el cuidado con el que la primera había preparado el encuentro."
+      "runs": [
+        {
+          "text": "Cerca había dos policías, un hombre y una mujer. Estaban lo suficientemente apartados para no invadirla, pero hablaban mirando hacia donde estaba. Parecían dos vecinas de avanzada edad chismoseando desde el patio de sus casas. Incluso se inclinaban un poco hacia adelante. La curiosidad nos estaba matando. La idea de acercarnos fue mía. A Majo le daba pena, pero el chisme, o quizá el morbo, terminó ganando."
+        }
+      ]
     },
     {
       "id": "p18",
       "voice": "narrador",
-      "text": "La oficial llevaba la historia y su compañero iba agregando detalles. Durante una de sus rondas, él alcanzó a ver la pintura de la joven. Allí había escrito una pregunta para la muchacha del vestido: le estaba proponiendo que fueran novias. Por eso le había avisado a su compañera que se acercaran. Los dos se rieron al recordar el momento. Nosotros ya estábamos pendientes de cómo terminaba todo."
+      "runs": [
+        {
+          "text": "La oficial me daba la espalda. Apenas escuchó mi voz se volteó y se enderezó. Su compañero hizo lo mismo. Sacaron pecho y recuperaron una solemnidad que hacía un segundo no tenían. Les pregunté si la muchacha estaba bien, con toda la preocupación de un ciudadano ejemplar. Respondieron que sí. Después, afortunadamente para nosotros, los buenos ciudadanos, siguieron contando."
+        }
+      ]
     },
     {
       "id": "p19",
       "voice": "narrador",
-      "text": "Llegó el momento de mostrar las pinturas. La muchacha del vestido enseñó la suya primero. Los policías no alcanzaron a ver qué había dibujado, pero sí recordaban la reacción de la otra. Se puso tan feliz que se lanzó a darle un beso. Dijeron que parecía una película. Con ese comienzo, ellos también querían saber cómo reaccionaría cuando apareciera la propuesta."
+      "runs": [
+        {
+          "text": "La joven había llegado un buen rato antes. Sacó un mantel, comida y cosas para pintar. Según el oficial, dejó todo tan bonito que los dos empezaron a turnarse para pasar cerca y mirar. Al rato llegó otra muchacha, con un vestido. Se saludaron de beso y comenzaron a hablar, cantar, comer y pintar. Ver parejas allí era habitual. Lo que les había llamado la atención era el cuidado con que la primera había preparado el encuentro."
+        }
+      ]
     },
     {
       "id": "p20",
       "voice": "narrador",
-      "text": "Entonces la joven mostró su pintura."
+      "runs": [
+        {
+          "text": "La oficial llevaba el relato y su compañero lo iba completando. En una de sus rondas él alcanzó a ver la pintura de la joven. Había escrito una pregunta para la muchacha del vestido, una propuesta para que fueran novias. Por eso le había enviado un mensaje a su compañera para que se encontraran. Los dos se rieron al recordar ese momento. Nosotros ya estábamos pendientes del desenlace."
+        }
+      ]
     },
     {
       "id": "p21",
       "voice": "narrador",
-      "text": "La muchacha del vestido se levantó de golpe y empezó a hablar. Desde donde estaban, los policías no lograron escuchar qué decía. Vieron cómo a la otra se le iba borrando la sonrisa, hasta que comenzó a llorar. Hubo un momento en que las dos se quedaron mirándose. Me imaginé ese silencio incómodo, de esos que para quien está mirando duran apenas un instante, pero para quienes lo viven parecen interminables. Después, la muchacha del vestido recogió sus cosas y se fue. Los oficiales tampoco alcanzaron a ver si se marchó llorando."
+      "runs": [
+        {
+          "text": "Llegó el turno de mostrarse las pinturas. La muchacha del vestido enseñó la suya primero. Los policías no alcanzaron a ver qué había dibujado, pero recordaban la reacción de la otra. Se puso tan feliz que se le abalanzó para darle un beso. Dijeron que parecía una película. Con ese comienzo, también ellos esperaban saber cómo se vería la felicidad cuando apareciera la propuesta."
+        }
+      ]
     },
     {
       "id": "p22",
       "voice": "narrador",
-      "text": "La otra se quedó allí. Lloró durante un buen rato, guardó todo en el bolso y volvió a quedarse sola. En algún momento de ese después habíamos llegado nosotros, ocupados en mirar las gatas y decidir cuál merecía ser la novia. También a esa historia habíamos llegado por el final."
+      "runs": [
+        {
+          "text": "Entonces la joven mostró su pintura."
+        }
+      ]
     },
     {
       "id": "p23",
       "voice": "narrador",
-      "text": "Los policías ya habían terminado de contar. Seguíamos sin saber qué palabras se habían dicho entre las dos mujeres ni qué había pasado antes de esa noche. Solo teníamos una propuesta, una salida apresurada y una muchacha llorando. Y con eso ya estábamos intentando entender una relación entera."
+      "runs": [
+        {
+          "text": "La del vestido se levantó de un salto. Empezó a hablar. Desde donde estaban, los policías no pudieron escuchar qué decía. Vieron cómo a la otra se le iba apagando la cara hasta que comenzó a llorar. Hubo un momento en que las dos se quedaron mirando. Me imaginé un silencio incómodo, de esos que para quien observa duran un instante y para quienes están adentro se vuelven interminables. Después, la muchacha del vestido recogió sus cosas y se fue. Los oficiales tampoco alcanzaron a ver si iba llorando."
+        }
+      ]
     },
     {
       "id": "p24",
       "voice": "narrador",
-      "text": "Se me vino a la cabeza una frase: «ahora son dos desconocidos que se conocen muy bien». Pensé en lo raro que debe ser saber tantas cosas de alguien y, de repente, quedarse sin un lugar desde el cual preguntarle cómo está. También pensé en lo difícil que me resulta aceptar que la cercanía puede significar algo distinto para cada persona. Había llegado al parque cansado de sentirme responsable de la vida de alguien más y, sin querer, estaba mirando una escena que conectaba con lo que me pasaba a mí."
+      "runs": [
+        {
+          "text": "La otra permaneció allí. Lloró un buen rato, guardó todo en el bolso y volvió a quedarse sola. En algún punto de ese después habíamos llegado nosotros, ocupados en entender las gatas y en decidir cuál merecía ser novia. También a esa historia habíamos entrado por el final."
+        }
+      ]
     },
     {
       "id": "p25",
       "voice": "narrador",
-      "text": "El Gato seguía en su lugar. Desde donde yo estaba, me lo imaginé escuchándonos sacar conclusiones con la misma seguridad con la que habíamos criticado su noviazgo."
+      "runs": [
+        {
+          "text": "Los policías habían terminado. Seguíamos sin conocer las palabras que se dijeron las dos mujeres, ni todo lo que había ocurrido entre ellas antes de esa noche. Teníamos una propuesta, una salida apresurada y una muchacha llorando. Con eso ya estábamos intentando entender una relación completa."
+        }
+      ]
     },
     {
       "id": "p26",
-      "voice": "gato",
-      "text": "Ustedes llegaron cuando ella estaba guardando. Dentro de un rato también se irán y se llevarán la parte que alcanzaron a ver. Para contarla les bastarán unos minutos. Ella tendrá que volver a pasar por aquí con el recuerdo entero. Yo llevo treinta años mirando cómo un mismo lugar les pesa de maneras tan distintas."
+      "voice": "narrador",
+      "runs": [
+        {
+          "text": "Se me vino a la cabeza una frase, «ahora son dos desconocidos que se conocen muy bien». Pensé en lo extraño que resulta saber tantas cosas de alguien y de pronto quedarse sin un lugar desde el cual preguntarle cómo está. También pensé en mi propia dificultad para aceptar que la cercanía puede tener un significado distinto para cada persona. Yo había llegado al parque cansado de sentirme responsable de una vida ajena y estaba mirando una escena que no podía dejar de relacionar con la mía."
+        }
+      ]
     },
     {
       "id": "p27",
       "voice": "narrador",
-      "text": "El puesto de comida seguía allí. También el poste, los árboles y el río. Hasta ese momento habían sido parte de un paseo tranquilo, pero después de conocer lo que había ocurrido, todo se sentía diferente. Para nosotros, el parque había sido un lugar agradable; para ella, quizá se había convertido en un sitio al que le costaría volver. No había cambiado nada físicamente, pero de alguna manera ya no era el mismo."
+      "runs": [
+        {
+          "text": "El Gato seguía en su lugar. Desde el mío, me lo imaginé escuchándonos sacar conclusiones con la misma seguridad con que habíamos cuestionado su noviazgo."
+        }
+      ]
     },
     {
       "id": "p28",
-      "voice": "narrador",
-      "text": "Pensé que tal vez las cosas no tienen una importancia fija, como si fueran iguales para todos, sin importar quién las viva. Para los policías y para nosotros, lo ocurrido podía quedarse en un chisme de esa noche. Para aquellas muchachas, en cambio, podía convertirse en un recuerdo doloroso que durara años. Los carros seguían pasando, las otras parejas continuaban conversando y la vida alrededor no se detenía. Había espacio para que alguien sintiera que todo se le acababa mientras otra persona apenas comenzaba su noche."
+      "voice": "gato",
+      "runs": [
+        {
+          "text": "Ustedes llegaron cuando ella estaba guardando. Dentro de un rato también se irán y se llevarán la parte que alcanzaron a ver. Para contarla les bastarán unos minutos. Ella tendrá que volver a pasar por aquí con el recuerdo entero. Yo llevo treinta años mirando cómo un mismo lugar les pesa de maneras tan distintas.",
+          "italic": true
+        }
+      ]
     },
     {
       "id": "p29",
       "voice": "narrador",
-      "text": "Tal vez algún día ella regresaría y le dolería un poco menos. Quizá otro recuerdo ocuparía ese mismo lugar, o tal vez tendría que pasar mucho tiempo antes de poder mirarlo sin pensar en aquella pintura. Nosotros también terminaríamos olvidando algunos detalles. De hecho, puede que ya se me estén escapando mientras intento escribirlos. Esta crónica guarda lo que alcanzamos a saber, incluida nuestra curiosidad, que no fue precisamente la más generosa. La vida de aquellas mujeres continuó por caminos a los que estas páginas no alcanzan."
+      "runs": [
+        {
+          "text": "El puesto de comida era el mismo. También el poste, los árboles y el río. Para mí habían formado parte de un paseo tranquilo hasta que alguien nos contó lo que había pasado. Para ella podían haberse convertido en un sitio al que costara volver. Todo había cambiado sin que fuera necesario mover nada."
+        }
+      ]
     },
     {
       "id": "p30",
       "voice": "narrador",
-      "text": "La quietud del Gato me hizo pensar en todo el tiempo que yo quería explicar a partir de una sola noche. Quería encontrarle sentido a cada cosa. Él, en cambio, llevaba tres décadas viendo llegadas y despedidas. La presencia de su creador se había quedado en unas cenizas y, aun así, el parque seguía llenándose de personas que venían a buscar algo propio."
+      "runs": [
+        {
+          "text": "Pensé que tal vez nada tiene una importancia propia, algo que permanezca intacto por fuera de quienes lo vivimos. Para los policías y para nosotros, aquella noche cabía en un chisme. Para las muchachas podía ocupar un recuerdo doloroso durante años. Alrededor seguían pasando carros. Las otras parejas conservaban sus conversaciones. El mundo tenía espacio para que alguien se sintiera acabando mientras alguien más apenas empezaba."
+        }
+      ]
     },
     {
       "id": "p31",
-      "voice": "gato",
-      "text": "Alguna mañana volverá a haber alguien aquí sin saber lo que pasó esta noche. Se detendrá donde ella estuvo y tendrá sus propias razones para quedarse. Así se me van llenando los días. Ustedes recuerdan una tarde, un beso, una respuesta. Yo me quedo viendo cómo vuelve a ocuparse el sitio."
+      "voice": "narrador",
+      "runs": [
+        {
+          "text": "Quizá un día ella regresaría y le dolería menos. Quizá un recuerdo nuevo terminaría ocupando ese mismo lugar o tendría que pasar mucho tiempo antes de poder mirarlo sin pensar en la pintura. Nosotros también olvidaríamos detalles. Algunos detalles quizá ya se me escapan mientras intento dejarlos escritos. Esta crónica guarda lo que alcanzamos a conocer, incluso nuestra curiosidad poco generosa. La vida de aquellas mujeres siguió por lugares a los que estas páginas no llegan."
+        }
+      ]
     },
     {
       "id": "p32",
       "voice": "narrador",
-      "text": "Al escribir esto me acordé de una anotación de Kafka, en la que dejó una declaración de guerra junto a una tarde de natación. Pensé en cómo podría ser una versión para este paseo: esta noche a una muchacha se le terminó un futuro. Por la mañana habrá que sacar a Hannah."
+      "runs": [
+        {
+          "text": "La quietud del Gato me hizo pensar en todo el tiempo que yo le estaba exigiendo a una sola noche. Quería encontrarle una explicación a todo. Él tenía tres décadas de llegadas y despedidas encima. La presencia de su creador se había reducido a unas cenizas, y aun así el parque seguía llenándose de gente que venía a buscar algo suyo."
+        }
+      ]
+    },
+    {
+      "id": "p33",
+      "voice": "gato",
+      "runs": [
+        {
+          "text": "Alguna mañana volverá a haber alguien aquí sin saber lo que pasó esta noche. Se detendrá donde ella estuvo y tendrá sus propias razones para quedarse. Así se me van llenando los días. Ustedes recuerdan una tarde, un beso, una respuesta. Yo me quedo viendo cómo vuelve a ocuparse el sitio.",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "id": "p34",
+      "voice": "narrador",
+      "runs": [
+        {
+          "text": "Al escribirlo recuerdo el apunte de Kafka que dejó una declaración de guerra junto a una tarde de natación. Pienso en una versión para este paseo. Esta noche a una muchacha se le terminó un futuro. Por la mañana habrá que sacar a Hannah."
+        }
+      ]
     }
   ]
 }

@@ -3,15 +3,16 @@ import { getImage } from 'astro:assets';
 import PhotoFigure from '../components/PhotoFigure.astro';
 import StoryScene from '../components/StoryScene.astro';
 import story from '../content/cronica.json';
-import { cover, scenes } from '../data/layout';
+import { cover, leadLength, scenes } from '../data/layout';
 import '@fontsource-variable/montserrat/wght.css';
+import '@fontsource-variable/montserrat/wght-italic.css';
 import '@fontsource-variable/playfair-display/wght.css';
 import '@fontsource-variable/playfair-display/wght-italic.css';
 import '../styles/global.css';
 
 const canonical = Astro.site && new URL('/', Astro.site);
 const socialPhoto = canonical && await getImage({ src: cover.image, width: 960, format: 'webp', quality: 86 });
-const description = story.paragraphs[0].text.split('. ')[0] + '.';
+const description = story.paragraphs[0].runs.map(run => run.text).join('').slice(0, leadLength);
 ---
 <!doctype html>
 <html lang="es">

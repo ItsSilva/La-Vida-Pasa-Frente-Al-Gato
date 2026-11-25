@@ -7,6 +7,14 @@ import perfil from '../assets/cronica/perfil.webp';
 import sendero from '../assets/cronica/sendero.webp';
 
 export type Photo = { image: ImageMetadata; alt: string };
+export type Paragraph = {
+  id: string;
+  voice: string;
+  runs: { text: string; italic?: boolean }[];
+};
+
+// The opening of the first source paragraph, through the second sentence.
+export const leadLength = 105;
 
 type Scene = {
   from: number;
@@ -19,42 +27,42 @@ export const cover: Photo = {
 };
 
 export const scenes: Scene[] = [
-  { from: 1, through: 3 },
+  { from: 1, through: 4 },
   {
-    from: 4, through: 6, side: 'left',
+    from: 5, through: 7, side: 'left',
     photo: {
       image: noHayGato,
       alt: 'Vista de espaldas de No hay gato, con nombres de animales y referencias bíblicas escritas en el cuerpo.',
     },
   },
   {
-    from: 7, through: 9, side: 'right',
+    from: 8, through: 10, side: 'right',
     photo: {
       image: bigotes,
       alt: 'Detalle de la cara del Gato del Río y de sus bigotes en espiral.',
     },
   },
   {
-    from: 10, through: 13, side: 'left',
+    from: 11, through: 14, side: 'left',
     photo: {
       image: sendero,
       alt: 'Una persona de espaldas camina por el sendero del parque bajo las luces de los postes.',
     },
   },
-  { from: 14, through: 23 },
+  { from: 15, through: 25 },
   {
-    from: 24, through: 26, side: 'right',
+    from: 26, through: 28, side: 'right',
     photo: {
       image: perfil,
       alt: 'Perfil de una escultura felina junto a la reja que separa el parque de la vía.',
     },
   },
   {
-    from: 27, through: 29, side: 'left',
+    from: 29, through: 31, side: 'left',
     photo: {
       image: parque,
       alt: 'Vista nocturna del sendero curvo, los árboles iluminados y las esculturas del parque.',
     },
   },
-  { from: 30, through: 32 },
+  { from: 32, through: 34 },
 ];

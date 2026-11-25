@@ -1,5 +1,9 @@
 # La vida pasa frente al Gato
 
+La edición vigente reproduce los 34 párrafos de la pestaña «La vida pasa frente al Gato» de `CronicaSofiaJuanParqueGatos`. Las dos primeras frases del primer párrafo forman la entrada destacada. [Google Doc vigente](https://docs.google.com/document/d/1hxwzt6Wm_N4bMjj5j8zetJzm62Uxaa0EX3fNaUgO-ME/edit?tab=t.nmv4g6ld8ams)
+
+El encargo y los anexos que siguen documentan la primera publicación. Para la edición vigente, usar [la fuente de la página](src/content/cronica.json), [el verificador de fidelidad](scripts/verify-content.mjs) y [el informe de entrega](docs/entrega.md).
+
 ## README para construir y publicar la crónica web
 
 **Versión del encargo: 24 de noviembre de 2026.** Este documento está dirigido a Codex. Debe permitir construir el sitio, comprobarlo, subir el código a GitHub y publicarlo en Vercel cuando el usuario entregue este README junto con sus materiales.
